@@ -1,6 +1,13 @@
 package com.foxdd.dubbo.dubbo_interface;
 
-public class People {
+import java.io.Serializable;
+
+public class People implements Serializable{
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -8712295099843974373L;
 	
 	private int age;
 	private String name;
