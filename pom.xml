@@ -5,6 +5,7 @@
   <groupId>com.foxdd.dubbo</groupId>
   <artifactId>dubbo-interface</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
 
   <name>dubbo-interface</name>
   <url>http://maven.apache.org</url>
